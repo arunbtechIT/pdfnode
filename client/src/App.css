@@ -1,0 +1,19 @@
+.box{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  
+}
+.container{
+  text-align: center;
+}
+.bg{
+  background-color: aqua;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.head{
+  font-style: italic ;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 100;
+}
+
